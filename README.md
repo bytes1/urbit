@@ -45,6 +45,11 @@ step 3: **After login users will redirected to the dashboard. where user can see
   <img src="images/urbit_channel.jpg"> <br>
 - create channel : If a dapp needs to send notifications to users, it must create a channel in the 'notify app'. create channel tab allow users to create channel. <br>
   <img src="images/urbit_create.jpg"> <br>
+- send notification : Once a channel is created, the creator will have the option to send notifications to subscribed users.
+  <img src="images/message_create.jpg"> <br>
+- receive notification : subscribed users can receive notification in notify app and metamask.  
+  <img src="images/inbox.jpg"> <br>
+  <img src="images/snap.jpg">
 
 ## For Developers
 
