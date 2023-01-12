@@ -33,12 +33,13 @@ Step 1: **User need to install metmask flask build from the above link. In order
 <br>
 
 step 2: **After installing meatamask falsk user need to access urbit notify app and login with your metamask wallet**
-<img src="images/urbit_login.png">
+<img src="images/urbit_login.jpg">
 <br>
 
 step 3: **After login users will redirected to the dashboard. where user can see differnt tabs `inbox,channel,create channels`**
 <img src="images/urbit_notify.png"><br>
--inbox : users can view notifications from different apps in the urbit network.
-<img src="images/urbit_inbox.jpg"> <br>
--channel : user need to subscribe a channel to receive notifications. suppose a user need to receive notifications from `notify app` channel regarding the new updates of notify app user need to subscribe to this channel. <br>
-<img src="images/urbit_channel.jpg">
+
+- inbox : users can view notifications from different apps in the urbit network.
+  <img src="images/urbit_inbox.jpg"> <br>
+- channel : user need to subscribe a channel to receive notifications. suppose a user need to receive notifications from `notify app` channel regarding the new updates of notify app user need to subscribe to this channel. <br>
+  <img src="images/urbit_channel.jpg"> <br>
