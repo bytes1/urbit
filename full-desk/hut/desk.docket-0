@@ -1,0 +1,12 @@
+:~
+  title+'Hut'
+  info+'A simple chat app.'
+  color+0x7c.afc2
+  version+[0 1 0]
+  website+'https://urbit.org'
+  license+'MIT'
+  base+'hut'
+  :+  %glob-http
+    'https://m.tinnus-napbus.xyz/pub/hut/glob-0v7sg0t.79dnl.pdcne.lm8lh.chnu5.glob'
+  0v7sg0t.79dnl.pdcne.lm8lh.chnu5
+==
