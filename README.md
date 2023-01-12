@@ -37,7 +37,7 @@ step 2: **After installing meatamask falsk user need to access urbit notify app 
 <br>
 
 step 3: **After login users will redirected to the dashboard. where user can see differnt tabs `inbox,channel,create channels`**
-<img src="images/urbit_notify.png"><br>
+<img src="images/urbit_inbox.png"><br>
 
 - inbox : users can view notifications from different apps in the urbit network.
   <img src="images/urbit_inbox.jpg"> <br>
